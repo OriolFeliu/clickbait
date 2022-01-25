@@ -1,7 +1,7 @@
 # Pràctica Kaggle APC UAB 2021-22
 ### Nom: Oriol Feliu
 ### DATASET: Clickbait Dataset 
-### URL: [kaggle](http://www.kaggle.com/amananandrai/clickbait-dataset)
+### URL: [Clickbait dataset](http://www.kaggle.com/amananandrai/clickbait-dataset)
 ## Resum
 El dataset utilitza dades de diferents titulars de noticies i articles que podem ser clickbait o no.
 Tenim 32000 dades amb 2 atributs. El primer és un camp de text, que és el titular, i el segon un booleà, que indica si és clickbait o no.
